@@ -17,8 +17,12 @@ Para cada subconjunto de entrada, execute todos os algoritmos e calcule o tempo 
 
 A pontuação deste trabalho será dividida da seguinte forma:
 - Análise do tempo de execução de cada algoritmo (0,5 ponto para cada aluno).
-- Análise comparativa entre os dois conjuntos de implementações e uma implementação padrão de ordenação fornecida nas linguagens escolhidas (0,5 ponto para a dupla).  A análise deverá ser fornecida em formato a ser escolhido pela dupla (relatório, prezi ou slides em vídeo). Torne o “produto” conciso, porém interessante. Os seguintes tipos de análise são sugeridos:
 
-Para cada subconjunto de entradas, faça um gráfico demonstrando o crescimento do tempo de execução médio ao longo do aumento dos tamanhos dos vetores.
-Para um determinado tamanho de entrada, faça um gráfico demonstrando a variação (potencialmente o crescimento) do tempo de execução médio ao longo do aumento do grau de entropia dos vetores (diferentes subconjuntos).
-Ao comparar com o método padrão fornecido pela linguagem escolhida, explique o funcionamento deste método e porque ele é (in)eficiente.
+- Análise comparativa entre os dois conjuntos de implementações e uma implementação padrão de ordenação fornecida nas linguagens escolhidas (0,5 ponto para a dupla). A análise deverá ser fornecida em formato a ser escolhido pela dupla (relatório, prezi ou slides em vídeo). Torne o “produto” conciso, porém interessante. Os seguintes tipos de análise são sugeridos:
+
+- Para cada subconjunto de entradas, faça um gráfico demonstrando o crescimento do tempo de execução médio ao longo do aumento dos tamanhos dos vetores.
+- Para um determinado tamanho de entrada, faça um gráfico demonstrando a variação (potencialmente o crescimento) do tempo de execução médio ao longo do aumento do grau de entropia dos vetores (diferentes subconjuntos).
+- Ao comparar com o método padrão fornecido pela linguagem escolhida, explique o funcionamento deste método e porque ele é (in)eficiente.
+
+####Relatório
+O relatório está sendo elaborado e pode ser acessado por [este documento no google docs](https://docs.google.com/document/d/1Rm9Rcsx1hl9cY4Z97r6xt_4qdZcMM3hpBhkugdaU8Qs/edit?usp=sharing)
