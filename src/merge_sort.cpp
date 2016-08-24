@@ -25,8 +25,8 @@ void sorting_deck::merge_sort(int vet[], int n) {
 
   int mid = n/2;
 
-  int left[mid];
-  int right[n-mid];
+  int* left = new int[mid];
+  int* right = new int[n-mid];
 
   /**Dividing the sub-arrays**/
   for (int i = 0; i < mid; i++)
@@ -42,4 +42,6 @@ void sorting_deck::merge_sort(int vet[], int n) {
     merge_sort(right,n-mid); //the right sub-array
     merge(vet,left,mid,right,n-mid);
 
+    delete [] left;
+    delete [] right;
 }
