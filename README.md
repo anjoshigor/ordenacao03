@@ -25,4 +25,4 @@ A pontuação deste trabalho será dividida da seguinte forma:
 - Ao comparar com o método padrão fornecido pela linguagem escolhida, explique o funcionamento deste método e porque ele é (in)eficiente.
 
 ####Relatório
-O relatório está sendo elaborado e pode ser acessado por [este documento no google docs](https://docs.google.com/document/d/1Rm9Rcsx1hl9cY4Z97r6xt_4qdZcMM3hpBhkugdaU8Qs/edit?usp=sharing)
+O relatório pode ser acessado em pdf no próprio repositório no diretório [doc](/doc/Report_APA_20161.pdf)
